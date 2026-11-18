@@ -1,0 +1,10 @@
+file_format: "1"
+id: testkb
+name: TestKB
+type: shield
+url: https://github.com/brazilerinho/
+requires: [pro_micro]
+features:
+  - keys
+siblings:
+  - testkb

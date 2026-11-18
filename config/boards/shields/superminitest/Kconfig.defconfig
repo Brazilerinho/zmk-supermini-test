@@ -1,0 +1,9 @@
+if SHIELD_SUPERMINITEST
+
+config ZMK_KEYBOARD_NAME
+    default "SuperminiTest"
+
+config ZMK_SPLIT_ROLE_CENTRAL
+    default y
+
+endif
